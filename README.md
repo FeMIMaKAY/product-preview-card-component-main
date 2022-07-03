@@ -1,4 +1,4 @@
 # product-preview-card-component-main
 A simple product preview card
 
-[completed page image](https://femimakay.github.io/product-preview-card-component-main)
+![completed page image]((https://i.postimg.cc/yYh0kLxZ/Screenshot-486.png)
